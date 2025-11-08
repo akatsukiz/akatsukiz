@@ -36,3 +36,17 @@
 [![](https://visitcount.itsvg.in/api?id=akatsukiz&icon=7&color=10)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+
+<br clear="both">
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/akatsukiz/akatsukiz/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/akatsukiz/akatsukiz/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/akatsukiz/akatsukiz/output/pacman-contribution-graph.svg">
+</picture>
+
+<div align="center">
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=akatsukiz.akatsukiz&left_color=hotpink&right_color=darkslateblue"  />
+</div>
+
+###
