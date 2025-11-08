@@ -3,7 +3,7 @@
 
 # 💫 About Me:
 
-🔭 I’m currently working on MLOps projects at Sandisk<br>👯 I’m looking to collaborate on cool AI/ML projects<br>🤝 I’m looking for help with cool projects collaboration<br>🌱 I’m currently learning Next.js<br>💬 Ask me about Angular, Springboot, Python<br>⚡ Fun fact I have a special talent on voice acting :>
+🔭 I’m currently working on **MLOps projects at Sandisk**<br>👯 I’m looking to collaborate on **cool AI/ML projects**<br>🤝 I’m looking for help with **cool projects collaboration**<br>🌱 I’m currently learning **Next.js**<br>💬 Ask me about **Angular, Springboot, Python**<br>⚡ Fun fact **I have a special talent on voice acting :>**
 
 ## 🌐 Socials:
 
