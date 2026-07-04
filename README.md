@@ -3,11 +3,11 @@
 
 # 💫 About Me:
 
-🔭 I’m currently working on **MLOps and VisionAI projects at Sandisk**<br>👯 I’m looking to collaborate on **cool AI/ML projects**<br>🤝 I’m looking for help with **cool projects collaboration**<br>🌱 I’m currently learning **Next.js**<br>💬 Ask me about **Angular, Springboot, Python**<br>⚡ Fun fact **I have a special talent on voice acting :>**
+🔭 I’m currently working on **MLOps and VisionAI projects**<br>👯 I’m looking to collaborate on **cool AI/ML projects**<br>🤝 I’m looking for help with **cool projects collaboration**<br>🌱 I’m currently learning **Next.js**<br>💬 Ask me about **Angular, Springboot, Python**<br>⚡ Fun fact **I have a special talent on voice acting :>**
 
 ## 🌐 Socials:
 
-[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/hMx5fbnjBA) [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/seowfen.chan) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/akatsukiz_owo) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/seow-fen-chan-7888b31b9/) [![Twitch](https://img.shields.io/badge/Twitch-%239146FF.svg?logo=Twitch&logoColor=white)](https://twitch.tv/rei_tachibana) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@Rei.Tachibana_owo) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:rei.chann.ovo@gmail.com) [![Leetcode](https://img.shields.io/badge/-LeetCode-FFA116?style=flat&logo=LeetCode&logoColor=black)](https://leetcode.com/u/6AA6oER0gL/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/seow-fen-chan-7888b31b9/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:rei.chann.ovo@gmail.com) [![Leetcode](https://img.shields.io/badge/-LeetCode-FFA116?style=flat&logo=LeetCode&logoColor=black)](https://leetcode.com/u/6AA6oER0gL/)
 
 
 # 💻 Tech Stack:
